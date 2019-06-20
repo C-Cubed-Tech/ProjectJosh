@@ -1,0 +1,38 @@
+body   {background-color:#2369c4;
+      font-family:tahoma;
+	  margin:0px;}
+	 
+h1	 {font-size:4em;
+	 text-align:center;
+	 }
+	 
+table	  {width:100%;
+     border:1px solid white;
+	 color:white;}
+	 
+img	 {width:300;
+     height:300;
+	 color:white;}
+	 
+h3	 {text-align:center;
+color:white;}
+
+h4     {text-align:center;
+      font-size:2em;
+	  color:white;}
+	  
+p	 {font-family:tahoma;
+     color:white;}
+
+H2     {color:white;
+      font-size:40;
+	  text-align:center;}
+
+H5     {text-align:center;}
+
+.Title {background-image:linear-gradient(red, yellow, green, blue, purple);
+        color:white;}	 
+		
+a    {font-size:2em;
+	  color:white;}
+	 
