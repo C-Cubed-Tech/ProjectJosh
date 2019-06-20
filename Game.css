@@ -30,7 +30,7 @@ H2     {color:white;
 
 H5     {text-align:center;}
 
-.Title {background-image:linear-gradient(red, yellow, green, blue, purple);
+.Title {background-image:gradient(red, yellow, green, blue, purple);
         color:white;}	 
 		
 a    {font-size:2em;
